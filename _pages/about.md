@@ -6,20 +6,26 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hua.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there! I'm Liu Hua, and you can also call me Laura. Welcome to my website!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am pursuing a professional master's degree at the School of Journalism and Communication, Nanjing University. Internet product design and game planning have captured my profound interest. I've interned at internet companies like **Alibaba (Taotian Group)** and **NetEase (NetEase Cloud Music)**. In the future, I hope to work as a product manager or in data analysis.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you're passionate about these fields，feel free to visit my personal knowledge base on [Yuque](https://www.yuque.com/ddddream).
+
+<hr>
+
+Hi！ 我是刘画，欢迎来到我的网站！
+
+目前我正在南京大学新闻传播学院攻读专业学位硕士研究生，研究方向为计算传播学。我对于互联网产品设计、游戏策划方向十分感兴趣，曾在`阿里巴巴（淘天集团）`、`网易（网易云音乐）`等互联网公司实习，未来也希望从事产品经理或数据分析师等职业。
+
+如果你对这些感兴趣，还可以点击我的[个人知识库](https://www.yuque.com/ddddream)一起交流～
