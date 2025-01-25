@@ -222,6 +222,17 @@ ninja.data = [{
           window.location.href = "/dddream0215.github.io/blog/2023/tikzjax/";
         
       },
+    },{id: "post-淘天集团暑期实习转正答辩",
+      
+        title: "淘天集团暑期实习转正答辩",
+      
+      description: "📝记录一下曾经拿到con offer并成为部门述职答辩模版的doc",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/dddream0215.github.io/blog/2023/distill/";
+        
+      },
     },{id: "post-a-post-with-bibliography",
       
         title: "a post with bibliography",
@@ -352,17 +363,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/dddream0215.github.io/blog/2021/diagrams/";
-        
-      },
-    },{id: "post-a-distill-style-blog-post",
-      
-        title: "a distill-style blog post",
-      
-      description: "an example of a distill-style blog post and main elements",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/dddream0215.github.io/blog/2021/distill/";
         
       },
     },{id: "post-a-post-with-twitter",
