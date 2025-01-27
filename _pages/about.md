@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.nju.edu.cn/'>南京大学</a>. “奔波中什么不是一霎那的玩具."
 
 profile:
   align: right
