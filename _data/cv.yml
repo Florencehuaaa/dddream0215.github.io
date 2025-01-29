@@ -1,14 +1,14 @@
-- title: General Information
+- title: 基本信息
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: 姓名
+      value: 刘画
+    - name: 生日
+      value: 2002.02.15
+    - name: 邮箱
+      value: 522024110037@smail.nju.edu.cn
 
-- title: Education
+- title: 教育经历
   type: time_table
   contents:
     - title: PhD
