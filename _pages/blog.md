@@ -101,7 +101,7 @@ pagination:
 
 {% endif %}
 
- <ul class="post-list">
+  <ul class="post-list">
     <!-- 直接使用 site.posts 获取所有文章 -->
     {% for post in site.posts %}
         <!-- 过滤掉标记为 hide 的文章 -->
@@ -120,7 +120,6 @@ pagination:
             {% assign categories = post.categories | join: "" %}
 
             <li>
-
 
 {% if post.thumbnail %}
 
@@ -184,7 +183,7 @@ pagination:
 </div>
 {% endif %}
     </li>
-
+      {% endunless %}
     {% endfor %}
 
   </ul>
