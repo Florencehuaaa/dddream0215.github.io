@@ -101,26 +101,26 @@ pagination:
 
 {% endif %}
 
-  <ul class="post-list">
+ <ul class="post-list">
+    <!-- 直接使用 site.posts 获取所有文章 -->
+    {% for post in site.posts %}
+        <!-- 过滤掉标记为 hide 的文章 -->
+        {% unless post.hide %}
+            <!-- 计算阅读时间 -->
+            {% if post.external_source == blank %}
+                {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
+            {% else %}
+                {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
+            {% endif %}
+            <!-- 获取文章年份 -->
+            {% assign year = post.date | date: "%Y" %}
+            <!-- 处理文章标签 -->
+            {% assign tags = post.tags | join: "" %}
+            <!-- 处理文章分类 -->
+            {% assign categories = post.categories | join: "" %}
 
-    {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts %}
-    {% else %}
-      {% assign postlist = site.posts %}
-    {% endif %}
+            <li>
 
-    {% for post in postlist %}
-
-    {% if post.external_source == blank %}
-      {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
-    {% else %}
-      {% assign read_time = post.feed_content | strip_html | number_of_words | divided_by: 180 | plus: 1 %}
-    {% endif %}
-    {% assign year = post.date | date: "%Y" %}
-    {% assign tags = post.tags | join: "" %}
-    {% assign categories = post.categories | join: "" %}
-
-    <li>
 
 {% if post.thumbnail %}
 
