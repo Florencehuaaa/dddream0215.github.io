@@ -114,6 +114,17 @@ ninja.data = [{
           window.location.href = "/dddream0215.github.io/blog/2024/photo-gallery/";
         
       },
+    },{id: "post-小画的产品打怪日记",
+      
+        title: "小画的产品打怪日记🌸",
+      
+      description: "Always Day 1！",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/dddream0215.github.io/blog/2024/videos/";
+        
+      },
     },{id: "post-a-post-with-code-diff",
       
         title: "a post with code diff",
@@ -255,17 +266,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/dddream0215.github.io/blog/2023/audios/";
-        
-      },
-    },{id: "post-a-post-with-videos",
-      
-        title: "a post with videos",
-      
-      description: "this is what included videos could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/dddream0215.github.io/blog/2023/videos/";
         
       },
     },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
