@@ -6,7 +6,6 @@ description: Always Day 1！
 tags: 产品小白进阶之路
 categories: sample-posts
 thumbnail: assets/img/IMG_5700.jpg
-hide：true
 images:
   lightbox2: true
   photoswipe: true
