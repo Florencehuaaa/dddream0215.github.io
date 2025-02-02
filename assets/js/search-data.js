@@ -45,17 +45,6 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/dddream0215.github.io/blog/2025/2024-12-04-photo-gallery/";
-        
-      },
-    },{id: "post-",
-      
-        title: "",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
           window.location.href = "/dddream0215.github.io/blog/2025/2015-03-15-formatting-and-links/";
         
       },
@@ -112,6 +101,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/dddream0215.github.io/blog/2024/pseudocode/";
+        
+      },
+    },{id: "post-小画的产品打怪日记",
+      
+        title: "🌸小画的产品打怪日记",
+      
+      description: "Always Day 1！",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/dddream0215.github.io/blog/2024/photo-gallery/";
         
       },
     },{id: "post-小画的产品打怪日记",
