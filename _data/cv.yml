@@ -11,87 +11,67 @@
 - title: 教育经历
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: 硕士（计算传播）
+      institution: Nanjing University，Nanjing,China
+      year: 2024.09 - 2027.06
+
+    - title: 文学学士
+      institution: 南京大学
+      year: 2020.09-2024.06
+
+
+- title: 实习经历
+  type: time_table
+  contents:
+    - title: 产品经理
+      institution: 内容电商事业部-淘宝直播，淘宝(中国)软件有限公司
+      year: 2023.12 - 2024.04
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: 需求调研
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+            - 针对淘宝直播热浪引擎PC端/移动端商品下行能力优化提升，调研主播在选品-挂品-上播-成交链条中的各节点需求，统计主播及运营原声反馈;
+            - 日常监控各端口选品数据并进行指标分析，扫描竞品动向梳理优化点，形成产品功能需求。
+        - title: 产品设计
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - 负责淘宝主播app开单爆品功能优化迭代，撰写产品需求文档，对接设计输出原型交互图，协调前端、服务端、运营、算法、测试资源，进行需求评审与开发跟进；
+            - 一期上线后用户留存率10%提升至18%，选品漏斗一级转化率2-3%提升至7-8%，选品率达到38%左右。
+        - title: 产品运营
+          contents:
+            - 以任务为切入口帮助直播四个生态(达人、店播、产业带、内容化)主播成长并实现跃迁，针对“成交分”增长设计相关任务项。
+            - 推动用户学会使用淘宝直播B端产品工具，助力主播直播表现提高、平台生态健康。
+    
+    - title: 派对产品
+      institution: 音乐事业部，杭州网易云音乐科技有限公司
+      year: 2023.11-2023.12
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - 活动运营
+        - 产品策划
+          
+    - title: 直播运营
+      institution: 服饰发展事业部-服饰时尚，淘宝(中国)软件有限公司
+      year: 2023.06-2020.09
       description:
+        - 项目管理（略，详见PDF简历）
+        - 生态运营（略）
+        - 数据分析：结合大盘数据对达人主播进行用户分层，分矩阵运营设计日常活动和激励策略，提高主播和商家的积极性。
+        - 工具设计：协同产品、数科等团队，辅助上线淘宝服饰主播档案，便于行业进一步提高人货撮合的精准度，带来gmv和dac增量;撰写产品需求文档，并且结合业务场景理解，提出二期产品迭代建议。    
+ 
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
+- title: 项目经历
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://mp.weixin.qq.com/s/vfvInwVj2cSMtroM3hK-jw">淘宝秋冬新势力周生态大会暨选品会</a>
+      year: 2023.08.10
+      description: 
+        - 与营销侧沟通，策划新势力周✖KA达人核心策略和核心动作，包括利用社交媒体、话题传播等手段，产出创意内容，实现秋新势力周IP的 传播和塑造。
+        - 负责秋冬新品选品会定向达人与商家撮合，展示淘宝服饰商家的资质和实力，促成100位商家和50家机构主播规模化建联，最终达成GMV 成交
+     
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: 技能/证书
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>技能：</u>  R，Python，SQL，Nvivo，Office，Adobe全家桶，SPSS
+    - <u>证书：</u>  计算机二级，普通话二甲(91.6)
+    - <u>语言：</u>  英语(CET-4，681)，英语(CET-6，600+)
