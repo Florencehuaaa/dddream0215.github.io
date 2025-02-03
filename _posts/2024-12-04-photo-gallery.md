@@ -3,7 +3,7 @@ layout: post
 title: 🌸小画的产品打怪日记
 date: 2024-04-01 
 description: Always Day 1！
-tags: 产品小白进阶之路
+tags: 
 categories: sample-posts
 thumbnail: assets/img/IMG_5700.jpg
 hide: true
