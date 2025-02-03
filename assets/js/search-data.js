@@ -48,17 +48,6 @@ ninja.data = [{
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
         
       },
-    },{id: "post-a-post-with-tabs",
-      
-        title: "a post with tabs",
-      
-      description: "this is what included tabs in a post could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/dddream0215.github.io/blog/2024/tabs/";
-        
-      },
     },{id: "post-a-post-with-typograms",
       
         title: "a post with typograms",
@@ -189,6 +178,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/dddream0215.github.io/blog/2023/tikzjax/";
+        
+      },
+    },{id: "post-网易云音乐用户社交意愿探索",
+      
+        title: "网易云音乐用户社交意愿探索",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/dddream0215.github.io/blog/2023/netease/";
         
       },
     },{id: "post-淘天集团暑期实习转正答辩",
