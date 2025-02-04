@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/dddream0215.github.io/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/dddream0215.github.io/projects/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "欢迎点击右侧icon阅读我的简历喔👉",
